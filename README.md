@@ -1,4 +1,1 @@
-# effective-invention
-
-
-Gatsbyjs blog website with TailwindcssUI
+# store code here...
